@@ -10,26 +10,56 @@ contacts:
     pictureUrl: https://avatars.githubusercontent.com/u/158512006?v=4
     homePageUrl: https://github.com/repozado
 files:
-  - path: course1/unit1/lesson1/lessonpart1/newFile.html
+  - path: course1/unit1/lesson1/lessonpart1/Leccion1.html
     content: "<!DOCTYPE html>\r
+
+      <html lang=\"es\">\r
 
       <head>\r
 
-      <ti>Primera practica</ti>\r
+      \    <meta charset=\"UTF-8\">\r
+
+      \    <meta name=\"viewport\" content=\"width=device-width,
+      initial-scale=1.0\">\r
+
+      \    <title>Mi Página Web Simple</title>\r
+
+      \    <style>\r
+
+      \        body {\r
+
+      \            background-color: #f0f0f0;\r
+
+      \            font-family: Arial, sans-serif;\r
+
+      \        }\r
+
+      \    </style>\r
 
       </head>\r
 
       <body>\r
 
-      <lin>https://vscodeedu.com/courses/intro-to-web-dev</lin>\r
+      \    <h1>Bienvenido a mi página web</h1>\r
 
-      </body>\r
+      \    <p>Esta es una página HTML simple creada como parte de la actividad
+      de la lección.</p>\r
 
-      <footer>\r
+      \    <a href=\"https://vscodeedu.com/\">Visita nuestro sitio</a>\r
 
       \r
 
-      </footer>\r
+      \    <script>\r
+
+      \        window.onload = function() {\r
+
+      \            alert('¡Bienvenido a mi página web!');\r
+
+      \        };\r
+
+      \    </script>\r
+
+      </body>\r
 
       </html>"
 units:
