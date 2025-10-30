@@ -9,12 +9,28 @@ contacts:
   - displayName: Rodriguez Ordoñez José Alexander
     pictureUrl: https://avatars.githubusercontent.com/u/158512006?v=4
     homePageUrl: https://github.com/repozado
+files:
+  - path: course1/unit1/lesson1/lessonpart1/newFile.html
+    content: "<!DOCTYPE html>\r
+
+      <head>\r
+
+      <ti>Primera practica</ti>\r
+
+      </head>\r
+
+      <body>\r
+
+      <lin>https://vscodeedu.com/courses/intro-to-web-dev</lin>\r
+
+      </body>\r
+
+      <footer>\r
+
+      \r
+
+      </footer>\r
+
+      </html>"
 units:
-  - id: unit1
-    title: Unit 1
-    lessons:
-      - id: lesson1
-        title: Lesson 1
-        lessonParts:
-          - id: lessonpart1
-            title: Page 1
+  - unit1/index.yml

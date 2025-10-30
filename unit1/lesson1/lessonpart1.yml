@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+id: lessonpart1
+title: Page 1
+content: >
+  ## Introducción al Desarrollo Web
+
+
+  Bienvenidos a la primera lección de nuestro curso de introducción al
+  desarrollo web. En esta lección, exploraremos los conceptos básicos que forman
+  la base del diseño web front-end. Aprenderemos sobre HTML, CSS y JavaScript,
+  los tres pilares fundamentales para crear páginas web interactivas y
+  atractivas.
+
+
+  ### ¿Qué es HTML?
+
+
+  HTML, o Lenguaje de Marcado de Hipertexto, es el estándar para crear la
+  estructura de las páginas web. Utiliza etiquetas para definir elementos como
+  encabezados, párrafos, enlaces, imágenes y más. HTML es esencial para
+  organizar el contenido de una página web de manera lógica y accesible.
+
+
+  ### ¿Qué es CSS?
+
+
+  CSS, o Hojas de Estilo en Cascada, se utiliza para controlar la presentación
+  visual de una página web. Con CSS, puedes aplicar estilos como colores,
+  fuentes, márgenes y disposición de los elementos. Esto permite que las páginas
+  web sean visualmente atractivas y coherentes con el diseño deseado.
+
+
+  ### ¿Qué es JavaScript?
+
+
+  JavaScript es un lenguaje de programación que permite agregar interactividad a
+  las páginas web. Con JavaScript, puedes crear funciones dinámicas como
+  formularios interactivos, animaciones y actualizaciones de contenido en tiempo
+  real. Es una herramienta poderosa para mejorar la experiencia del usuario en
+  la web.
+
+
+  ### Actividad
+
+
+  Para comenzar, intenta crear una página HTML simple que incluya un título, un
+  párrafo y un enlace. Luego, aplica algunos estilos básicos con CSS para
+  cambiar el color de fondo y la fuente del texto. Finalmente, añade un script
+  de JavaScript que muestre un mensaje de bienvenida cuando se cargue la página.
+
+
+  ¡Buena suerte y diviértete explorando el mundo del desarrollo web!
+showEditor: true
+editors:
+  - course1/unit1/lesson1/lessonpart1/newFile.html
